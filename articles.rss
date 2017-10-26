@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://primacore.net/articles.rss" rel="self" type="application/rss+xml" />
+    <title>Primacore.net - RSS Feed for Articles</title>
+    <link>https://primacore.net/</link>
+    <description>RSS feed of recent published Articles for Primacore.net</description>
+    <copyright>(c)2015 Primacore Networks, LLC</copyright>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 18 Oct 2017 22:48:31 -0500</lastBuildDate>
+    <ttl>120</ttl>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:articles/ip-subnetting-part1.html</guid>
+      <title>IP Subnetting Part 1 - IPv4</title>
+      <link>https://primacore.net/articles/ip-subnetting-part1.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:16:12 -0600</pubDate>
+      <description>Despite the large number of jokes in high school about never needing to use mathematics after graduation, the art form known as IP Subnetting requires a solid grasp of math based on binary numbers (0, 1). In this first part of my devoted attention on IP Subnetting, we&apos;ll focus on Internet Protocol version 4 (IPv4) addressing, some history, and the methods available to make IPv4 addressing go farther.</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:articles/20090911-understanding-network-command.html</guid>
+      <title>Understanding the "network" command</title>
+      <link>https://primacore.net/articles/20090911-understanding-network-command.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:15:20 -0600</pubDate>
+      <description>Many network engineers seem to misunderstand the use of the network command in routing protocols on Cisco IOS, especially once they see the usage in BGP.  This occurrence happens more frequently with those studying to become a CCNA, but may not be obvious to experienced engineers either.  Based on my own experience, I have very distinct memories of confusion when the concept I understood was first corrected by a more experienced engineer.  So let&apos;s breakdown the confusion.</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:articles/osi-model-troubleshooting.html</guid>
+      <title>Troubleshooting with OSI Model</title>
+      <link>https://primacore.net/articles/osi-model-troubleshooting.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:14:04 -0600</pubDate>
+      <description>At Layers 1-4, there are several tools or tricks available to quickly verify normal operations.  I have routinely used each of these tools for many years and expect many of them to be familiar.  Many of these tools are technology-specific, meaning that one tool has an application with one technology but not another.  I should also caution that the list below is not intended to be exhaustive or complete.  It&apos;s just a collection of my thoughts on what I find really useful.  As I remember something I mistakenly omitted, I&apos;ll update this list from time to time (so expect to see it grow).</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:articles/osi-model-in-practice.html</guid>
+      <title>OSI Model in Practice</title>
+      <link>https://primacore.net/articles/osi-model-in-practice.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:14:40 -0600</pubDate>
+      <description>In the previous article, I summarized the seven layers of the OSI Reference Model and promised to show why it should be relevant.  While the model can be (and usually is) a vague concept, it has a tremendously practical application in isolating problems with system-to-system communication.  The OSI Model in practice can be approached in (at least) two different ways: linear vs.  divide-and-conquer approaches.</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:articles/osi-model-overview.html</guid>
+      <title>Overview of OSI Model</title>
+      <link>https://primacore.net/articles/osi-model-overview.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:13:20 -0600</pubDate>
+      <description>I frequent Hacki&apos;s forums and I&apos;ve seen something that tends to be pretty common with most folks as they are learning their way in Networking.  The OSI model tends to give a lot of people fits, since it&apos;s really abstract and doesn&apos;t seem practical at first.  It&apos;s one of the items on the list of upcoming articles and I figure now is a good time to break things down so we can clearly see it in practice.</description>
+    </item>
+  </channel>
+</rss>

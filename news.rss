@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://primacore.net/news.rss" rel="self" type="application/rss+xml" />
+    <title>Primacore.net - RSS Feed for News</title>
+    <link>https://primacore.net/</link>
+    <description>RSS feed of recent News entries for Primacore.net</description>
+    <copyright>(c)2015 Primacore Networks, LLC</copyright>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 18 Oct 2017 22:48:26 -0500</lastBuildDate>
+    <ttl>120</ttl>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:news/20151115-pcn-moved.html</guid>
+      <title>Moved to New Hosting</title>
+      <link>https://primacore.net/news/20151115-pcn-moved.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:06:02 -0600</pubDate>
+      <description>To prepare for the end of the hosting contract with Site5, Primacore.net has moved to a shiny, new Virtual Private Server (VPS) hosted by ServerMania.com in Atlanta, GA.</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:news/20110106-content-move-complete.html</guid>
+      <title>Content Move Complete</title>
+      <link>https://primacore.net/news/20110106-content-move-complete.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:04:17 -0600</pubDate>
+      <description>After months of deliberations, head-scratching, and careful planning, the move of all the RouterLabPrep.com content has been completed.  Thanks in no small part to the lapsing of the domain, we were able to cut through our own red tape and finally move the remaining published and draft articles.</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:news/20110106-pcn-relaunch.html</guid>
+      <title>Primacore.net is Relaunched</title>
+      <link>https://primacore.net/news/20110106-pcn-relaunch.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:04:55 -0600</pubDate>
+      <description>To celebrate the new year (and lessen the sad memory that was WordPress), we&apos;ve completed the first major milestone in redesigning our website.  Read on for a summary of what has changed, why it&apos;s better, and what is yet to come.</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:news/20110105-content-move.html</guid>
+      <title>Content Move</title>
+      <link>https://primacore.net/news/20110105-content-move.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:03:38 -0600</pubDate>
+      <description>Over time, I will be moving posts from RouterLabPrep.com to this site.  Once the content move is complete, RouterLabPrep.com will eventually be decommissioned and redirect to the Articles section of this site until such time as I figure out what to do with it.</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:primacore.net,2015:news/20110105-hello-world.html</guid>
+      <title>Hello, World</title>
+      <link>https://primacore.net/news/20110105-hello-world.html</link>
+      <pubDate>Sun, 15 Nov 2015 11:02:52 -0600</pubDate>
+      <description>It finally re-happened.  In replacing RouterLabPrep.com, this site will still let me share what I know already, what I&apos;m learning, and things coming along the horizon that may become technically significant in the IT world.  But everything posted is in proper context of what I do (running Primacore™), what Primacore™ stands for, and what I&apos;ve can offer the world to help solve IT problems.</description>
+    </item>
+  </channel>
+</rss>
